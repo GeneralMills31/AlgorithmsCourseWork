@@ -1,14 +1,14 @@
-# Eclipse files
+# Eclipse
 .classpath
 .project
 .settings/
 
-# Output folders
+# Build output
 bin/
 target/
 out/
 
-# OS files
+# OS junk
 .DS_Store
 Thumbs.db
 
